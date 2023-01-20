@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nVfucGhE6G7856JM5eAKppeK/rYroe98VcvJBQ85qQb8wnWzowPOd/jntIQckTWhUmcG7BAhtmBpnx9xEGy7bg==",
+  "success": true,
+  "projectFilePath": "/Users/rahulgupta/Projects/Proximo/CodingExercise/Proximo/Proximo.csproj",
+  "expectedPackageFiles": [
+    "/Users/rahulgupta/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/rahulgupta/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
