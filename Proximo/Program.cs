@@ -68,7 +68,7 @@ namespace Proximo
             DateTimeOffset parsedDate;
             if (!DateTimeOffset.TryParse(date, out parsedDate))
             {
-                throw new ArgumentOutOfRangeException(nameof(date), "Invalid DateOffset");
+                throw new ArgumentOutOfRangeException("Invalid DateOffset");
             }
 
             var currentMonth = parsedDate.Month;
@@ -95,7 +95,7 @@ namespace Proximo
                     index = 3;
                 }
                 var result = dict[currentMonth][index] * days;
-                return result.ToString("C0");
+                return "$"+result;
             }
             else
             {
