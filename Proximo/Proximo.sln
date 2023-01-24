@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1704.2
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proximo", "Proximo.csproj", "{A08FE602-54E6-4F29-A82D-C83970521703}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProximoTest", "..\ProximoTest\ProximoTest.csproj", "{633A66AB-4101-4028-9161-3BAFB94A3071}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A08FE602-54E6-4F29-A82D-C83970521703}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A08FE602-54E6-4F29-A82D-C83970521703}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A08FE602-54E6-4F29-A82D-C83970521703}.Release|Any CPU.Build.0 = Release|Any CPU
+		{633A66AB-4101-4028-9161-3BAFB94A3071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{633A66AB-4101-4028-9161-3BAFB94A3071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{633A66AB-4101-4028-9161-3BAFB94A3071}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{633A66AB-4101-4028-9161-3BAFB94A3071}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
